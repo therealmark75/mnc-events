@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import abbaBg from "../assets/abba-bg.JPG";
+import abbaBg from "../assets/abba-bg.jpg";
 
 export default function AbbaNight() {
   useEffect(() => {
